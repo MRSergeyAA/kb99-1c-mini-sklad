@@ -343,6 +343,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.ТоварыБезДвижения</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Configuration.МиниСклад</name>
 		<right>
 			<name>ThinClient</name>

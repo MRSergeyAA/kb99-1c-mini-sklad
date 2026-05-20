@@ -97,10 +97,10 @@
 		<Metadata name="Role.Администратор.Rights" id="f84eeded-0835-41a8-958f-533cb8f8b1cd.0" configVersion="5a04c89a7cb21342bbeeba14289656aa00000000"/>
 		<Metadata name="Role.Гость" id="61313985-ddd8-45a0-8afb-c5201c7ab28a" configVersion="6c906dadfceb2b4da81afe4450bda95600000000"/>
 		<Metadata name="Role.Гость.Rights" id="61313985-ddd8-45a0-8afb-c5201c7ab28a.0" configVersion="e03f87a9022af74fab5189fb33803cb900000000"/>
-		<Metadata name="Role.Кладовщик" id="f6118eb4-9285-4819-b6ef-163190395057" configVersion="3f5f737a96c33d4bb0f79d2babe6ba7c00000000"/>
-		<Metadata name="Role.Кладовщик.Rights" id="f6118eb4-9285-4819-b6ef-163190395057.0" configVersion="698ae42ee87c5242bc5b92bf0bbd8ed200000000"/>
-		<Metadata name="Role.Менеджер" id="fce76769-484d-4de6-8866-b7a692e7cbb6" configVersion="97c4d0046fdc7e40bf92c6931dfb0d8f00000000"/>
-		<Metadata name="Role.Менеджер.Rights" id="fce76769-484d-4de6-8866-b7a692e7cbb6.0" configVersion="2463038e546e7c4187321ed0d596406600000000"/>
+		<Metadata name="Role.Кладовщик" id="f6118eb4-9285-4819-b6ef-163190395057" configVersion="26b1b7a063c8c44eb8efbad8d6d39a8700000000"/>
+		<Metadata name="Role.Кладовщик.Rights" id="f6118eb4-9285-4819-b6ef-163190395057.0" configVersion="4b2087c8914908459b960300ee17495f00000000"/>
+		<Metadata name="Role.Менеджер" id="fce76769-484d-4de6-8866-b7a692e7cbb6" configVersion="759bfec006dac148a22b212f7c14581400000000"/>
+		<Metadata name="Role.Менеджер.Rights" id="fce76769-484d-4de6-8866-b7a692e7cbb6.0" configVersion="bc11fb201eb9194a8849038b09b8b08b00000000"/>
 		<Metadata name="ScheduledJob.ЗакрытиеМесяца" id="a2a522f3-541e-4a16-bd9f-8d60e5ebde30" configVersion="7dcb3a3c55e97448a93927a9b1346e1800000000"/>
 		<Metadata name="ScheduledJob.ЗакрытиеМесяца.Schedule" id="a2a522f3-541e-4a16-bd9f-8d60e5ebde30.0" configVersion="93ea3118eab23e49a3ec69dd841e0baf00000000"/>
 		<Metadata name="ScheduledJob.ПоискНеиспользуемыхТоваров" id="4f06da34-15e4-4da1-b884-409d54f2440c" configVersion="9f3347b294fb1a47b8d00b39f145b3f700000000"/>
